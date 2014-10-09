@@ -2,4 +2,7 @@ hello-world
 ===========
 
 My first repository on GitHub.
-I changed it
+
+Hi Humans!
+
+I'm glad to introduce myself to you
